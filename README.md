@@ -14,6 +14,7 @@ See planning folder for inspiration!
 
 
 ## Content List
+Header - What will be in my header?
 Global Navigation and Contents
 Loval Navigation and Contents
 Overview - Duration, Location, Start, etc
@@ -30,11 +31,12 @@ How to Qualify and Apply
 Fees
 Career and Postgrad Opportunities
 Contact Us
-Search?
+Search
 
 ### Colours and Fonts
 George Brown Colours - blues, greys, white
 Sans Serif
 Futura
 Helvetica
-Minimalstic - something more on the design side of things
+Minimalistic - something more modern
+Font sizes, weights?
